@@ -7,8 +7,11 @@ This Project aims to explore the Air Crashes Full Data to showcase analytical sk
 RESEARCH QUESTIONS
 
 I first studied the data so as to have an idea of possible research questions that could be worked on, since the data is a record of plane crashes from 1908 – 2023 presented in a table format, the best thing to do was to check each column to see what values I would be working with, for example date column, location, aircraft type, aircraft manufacturer, number of casualties etc. after this I was able to come up with eight research questions  which are as follows:
+
 •	Total Air fatalities since inception.
+
 •	Total Passengers aboard the flights.
+
 •	Count of all the aircraft lost.
 •	Ground fatalities.
 •	Aircraft operators with most crashes recorded.
